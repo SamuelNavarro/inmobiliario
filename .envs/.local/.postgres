@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=inmobiliario
+POSTGRES_USER=XkETwkVfyahfbotAbIBLGqtPjKjkEunr
+POSTGRES_PASSWORD=UW4ou3ReHYA5BVMK1S3sU1U19ze7tR1lclhW9c1PVJehAEk6weRHkENbvOMd4JAT
