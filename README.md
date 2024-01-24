@@ -68,6 +68,12 @@ Sin duda hay una lista de mejoras al demo:
 
 #### Pre-commit
 
+- Para correr [pre-commit](https://pre-commit.com/):
+
+1. `pip install pre-commit`
+2. `pre-commit install`
+3. `pre-commit run --all-files`
+
 ### Type checks
 
 Running type checks with mypy:
