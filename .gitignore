@@ -284,4 +284,4 @@ inmobiliario/media/
 front_trash/
 *.csv
 
-gpt-assistant/.env*
+# gpt-assistant/.env*
