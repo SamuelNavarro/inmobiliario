@@ -54,6 +54,11 @@ Sin duda hay una lista de mejoras al demo:
 - Usar guardrials como un layer antes de enviar respuestas al usuario.
 - Modelos de imágenes: quiero saber casas de este estilo, con xs características, dime el precio promedio.
 
+### Credits
+
+- El frontend está basado en https://github.com/taylor-lindores-reeves/gpt-assistant/tree/main
+- El backend usa django cookiecutter: https://cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html
+
 #### Pre-commit
 
 ### Type checks
