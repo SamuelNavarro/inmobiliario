@@ -46,7 +46,9 @@ En caso de que se pretenda dar más privacidad lo cuál se convierte en desventa
 
 ![pic alt](./images/admin.png 'opt title')
 
-### Mejoras
+### Mejoras y otros
+
+#### Mejoras
 
 Sin duda hay una lista de mejoras al demo:
 
@@ -54,10 +56,15 @@ Sin duda hay una lista de mejoras al demo:
 - Usar guardrials como un layer antes de enviar respuestas al usuario.
 - Modelos de imágenes: quiero saber casas de este estilo, con xs características, dime el precio promedio.
 
+#### CI
+
+- El repo cuenta con pre-commit, type checkers, formatters, etc.
+- CI con github actions.
+
 ### Credits
 
 - El frontend está basado en https://github.com/taylor-lindores-reeves/gpt-assistant/tree/main
-- El backend usa django cookiecutter: https://cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html
+- El backend usa django cookiecutter: [django-cookiecutter](https://cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html).
 
 #### Pre-commit
 
