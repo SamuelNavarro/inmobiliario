@@ -42,6 +42,12 @@ En caso de que se pretenda dar más privacidad lo cuál se convierte en desventa
 
 ![pic alt](./images/local.png 'opt title')
 
+Para correr el modelo local:
+
+1. Instalar ollama [Ollama](https://ollama.ai/)
+2. `OLLAMA_ORIGINS=http://localhost:8000 OLLAMA_HOST=0.0.0.0:11435 ollama serve`. Luego, en otra terminal,
+3. `OLLAMA_HOST=0.0.0.0:11435 ollama pull llama2:latest`
+
 ### Django admin and DB
 
 ![pic alt](./images/admin.png 'opt title')
