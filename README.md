@@ -59,7 +59,9 @@ Sin duda hay una lista de mejoras al demo:
 #### CI
 
 - El repo cuenta con pre-commit, type checkers, formatters, etc.
-- CI con github actions.
+- CI con github actions. (Fallando por ser un prototipo)
+
+![ci](./images/ci.png 'opt title')
 
 ### Credits
 
