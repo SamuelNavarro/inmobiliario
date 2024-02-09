@@ -23,7 +23,7 @@ drf-spectacular==0.26.2  # https://github.com/tfranzel/drf-spectacular
 
 
 #  Extras
-openai==1.8.0  # https://github.com/openai/openai-python
+openai==1.12.0  # https://github.com/openai/openai-python
 langchain==0.1.1  # https://github.com/langchain-ai/langchain
 tiktoken<0.5.0  # https://github.com/openai/tiktoken
 ollama===0.1.3  # https://github.com/jmorganca/ollama-python
